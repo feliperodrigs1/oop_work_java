@@ -1,2 +1,3 @@
-# oop_work_java
-This is a work made during a class of object-oriented programming, to pratice the basics fundamentals.
+# College Work OOP
+
+During a class of Object-oriented programming, the professor has proposed to the students a work to pratice the fundamentals learned along the semester.
