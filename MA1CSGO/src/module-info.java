@@ -1,0 +1,2 @@
+module MA1CSGO {
+}
